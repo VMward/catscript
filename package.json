@@ -1,0 +1,20 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "Small library and toolkit for functional node programming for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-learning/functional-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-learning/functional-js/issues"
+  },
+  "homepage": "https://github.com/social-learning/functional-js#readme"
+}
