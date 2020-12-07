@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/social-learning/functional-js.git"
+    "url": "git+https://github.com/social-learning/catscript.git"
   },
   "keywords": [],
   "author": "social-learning",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/social-learning/functional-js/issues"
+    "url": "https://github.com/social-learning/catscript/issues"
   },
-  "homepage": "https://github.com/social-learning/functional-js#readme",
+  "homepage": "https://github.com/social-learning/catscript#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0"
   },
