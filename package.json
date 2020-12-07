@@ -1,5 +1,5 @@
 {
-  "name": "functional-js",
+  "name": "catscript",
   "version": "1.0.0",
   "description": "Small library and toolkit for functional node programming for beginners.",
   "main": "index.js",
@@ -11,10 +11,14 @@
     "url": "git+https://github.com/social-learning/functional-js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "social-learning",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/social-learning/functional-js/issues"
   },
-  "homepage": "https://github.com/social-learning/functional-js#readme"
+  "homepage": "https://github.com/social-learning/functional-js#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {}
 }
